@@ -72,9 +72,10 @@ mvn spring-boot:run
 ```
 
 H2 konzol:  
-http://localhost:8080/phpmyadmin (Alapértelmezett:h2-console, ez csak a saját dolgom megkönnyítésére.)  
+http://localhost:8080/phpmyadmin 
 JDBC URL: `jdbc:h2:mem:testdb`
 ---
+(Alapértelmezett:h2-console, ez csak a saját dolgom megkönnyítésére.) 
 
 ### 4.2 Frontend indítása
 ```

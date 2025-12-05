@@ -156,13 +156,13 @@ OrbitalStriker/
 ## 8. Demo képernyőképek
 
 ### Login képernyő
-![Login](backend/resources/demo_login.png)
+![Login](backend/src/main/resources/demo_login.png)
 
 ### Csapatválasztó
-![Selector](backend/resources/demo_selection.png)
+![Selector](backend/src/main/resources/demo_selection.png)
 
 ### Játék (canvas + scoreboard)
-![Gameplay](backend/resources/demo_ingame.png)
+![Gameplay](backend/src/main/resources/demo_ingame.png)
 
 # 👤 Szerző
 **[Ródé Martin]**
